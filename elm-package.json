@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "summary": "Some additional functions to use with elm-html",
+    "repository": "https://github.com/mbylstra/elm-html-helpers.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "HtmlHelpers",
+        "HtmlHelpers.Events"
+    ],
+    "dependencies": {
+        "elm-lang/core": "4.0.2 <= v < 5.0.0",
+        "elm-lang/html": "1.1.0 <= v < 2.0.0"
+    },
+    "elm-version": "0.17.1 <= v < 0.18.0"
+}
