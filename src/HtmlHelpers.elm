@@ -21,7 +21,7 @@ import Html.Attributes exposing (style)
 
 import HtmlHelpers.Events exposing (..)
 
-{-| create an <a> tag with no href that can be used as a button
+{-| create an `a` tag with no href that can be used as a button
 -}
 aButton : msg -> List (Attribute msg) -> List (Html msg) -> Html msg
 aButton onClickMessage attrs children =
