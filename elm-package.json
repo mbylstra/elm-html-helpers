@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Some additional functions to use with elm-html",
     "repository": "https://github.com/mbylstra/elm-html-helpers.git",
     "license": "BSD3",
